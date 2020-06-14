@@ -1014,6 +1014,7 @@ https://github.com/abueman/first-contributions.git- [Sushant Kumar](https://gith
 - [Cinthia Barros](https://github.com/barroscinthia)
 - [William Duvall](https://github.com/duvallwh)
 - [Neel](https://github.com/spiyer99)
+- [Lazar](https://github.com/pdlazar)
 - [Tigran Harutyunyan](https://github.com/caboose008)
 - [Jakub Banasik](https://github.com/jakubbanasik)
 - [Hyodo](https://github.com/eduardo-hyodo)
